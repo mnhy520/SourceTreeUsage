@@ -6,6 +6,6 @@
  */
 public class UserAction {
 	public void gulx2017428c(){
-		
+		//IDEA 呵呵
 	}
 }
